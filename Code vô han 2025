@@ -282,9 +282,9 @@ async function swapIdTkqc(assetID, businessId, accessToken) {
 
 (async () => {
 	const business_asset_groups = "761870753668993"; // ID GR
-	const actor_id = "100093140733918"; // u ID
-	const businessId = "156284712089615"; // ID BM
-	const accessToken = "EAAGNO4a7r2wBPEgZAmq4220MsZCUqbK8cn0mmUWjdOeBnXB5nFRONbNVZC5OAIItuHakXmpWk9aI3e8hUjzddZBjfnLvKlvpoTesm0p589D2lWYTP0pJV90jiiUQAvZAYD4BCAKNYMsBTZCMLxAaC2iSwSApFqbAREb88gVojZCXGbYZBsSXCdesBBPX2hh9OctLYAZDZD"; // token
+	const actor_id = "100052814020733"; // u ID
+	const businessId = "1562727537584319"; // ID BM
+	const accessToken = "EAABsbCS1iHgBPGTUbq9CZAEADSXcTOGPHDl7UZCxJeojKld0skFs9hWZC8Qn9B8ZAwLnbgkQytbLYaK97ZAU9FPQjlK6Heal76H6pX0kDyxZAABEqfY4WXkkBpJnE2rzYtxot6rGVFp7IinI8oC0fCJg7gRGEyzbIOz5jP2ZCS5tlZA836XXZC5aIQyZB1cgcgHJb5uZBa78epH1nTasU52pAZDZD"; // token
 	const So_Vong_Lap = 5;
 	let sum = 0;
 	for (let i = 0; i < So_Vong_Lap; i++) {
